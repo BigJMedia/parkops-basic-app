@@ -1,4 +1,4 @@
-basic-app
+parkops-basic-app
 =========
 
-My First Basic App to Post with Phone Gap
+First test iteration of the parkops app pushed to phone gap.
